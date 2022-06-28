@@ -6,7 +6,7 @@
 - 💬 Gosto de assistir animes, filmes e jogar video-game.
 - 😄 Pronouns: Ela/Dela.
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/xAndreiaLeite">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xAndreiaLeite&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAndreiaLeite&layout=compact&langs_count=4&theme=dracula"/>
